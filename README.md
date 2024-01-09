@@ -1,4 +1,4 @@
 # MyPortfolio
 Code for my porfolio website
-Made using vanial javascript
+Made using vanilla javascript
 HTML and CSS
